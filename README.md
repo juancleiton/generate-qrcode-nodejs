@@ -9,9 +9,9 @@ Animation showing a little of how the api works.
 </h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about-the-project">About The Project</a>
 </p>
 
 <p align="center">
@@ -61,9 +61,6 @@ http://localhost:3000?text=your-text
 ## About The Project
 
 If you need a light, fast and efficient solution to generate QRCode, then this project was born for you. Generate your custom code in a simple way.
-
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
 
 ---
 
